@@ -1,5 +1,5 @@
-#!/bin/bash
-#Hello!!!
+#!/bin/bash # start a new script
+#Hello!!! 
 
 if [ $# -eq 0 ]; then
 	echo "Usage: $0 filename"
