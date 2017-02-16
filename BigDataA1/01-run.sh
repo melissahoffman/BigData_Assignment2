@@ -14,3 +14,4 @@ cat $filename |
   cut -f3 |
   grep gene |
   wc -l
+# counts genes in the file
