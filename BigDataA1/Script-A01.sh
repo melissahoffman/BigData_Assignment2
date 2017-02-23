@@ -1,4 +1,4 @@
-#Hello
+#Hello how are you
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
